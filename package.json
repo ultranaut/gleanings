@@ -1,0 +1,27 @@
+{
+  "name": "gleanings",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "mocha --compilers js:babel/register"
+  },
+  "repository": {},
+  "author": "John Shearer <john@ultranaut.com> (http://ultranaut.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "files": [],
+  "devDependencies": {
+    "babel": "^5.6.1",
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.14.0",
+    "gulp-mocha": "^2.1.2",
+    "gulp-plumber": "^1.0.1"
+  },
+  "directories": {},
+  "dependencies": {}
+}
